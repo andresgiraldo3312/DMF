@@ -4,4 +4,4 @@ This repository contains the necessary code to reproduce the models for our pape
 
 ## Approach
 
-![DMF_4](/Imagenes/DMF_4.svg)
+![DMF_4](https://github.com/andresgiraldo3312/DMF/blob/main/Images/DMF_4.svg)
