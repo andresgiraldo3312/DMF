@@ -11,6 +11,7 @@ This repository contains the necessary code to reproduce the models for our pape
 
 If you use this code in a scientific publication, we would appreciate citations to the following paper:
 
+<pre>
 @article{rivera2022deep,
   title={Deep matrix factorization models for estimation of missing data in a low-cost sensor network to measure air quality},
   author={Rivera-Mu{\~n}oz, LM and Giraldo-Forero, AF and Martinez-Vargas, JD},
@@ -19,3 +20,4 @@ If you use this code in a scientific publication, we would appreciate citations 
   year={2022},
   publisher={Elsevier}
 }
+</pre>
